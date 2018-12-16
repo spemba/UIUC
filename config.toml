@@ -1,0 +1,45 @@
+stop-words = "../data/lemur-stopwords.txt"
+libsvm-modules = "../deps/libsvm-modules/"
+prefix = "../../data/"
+function-words = "../data/function-words.txt"
+punctuation = "../data/sentence-boundaries/sentence-punctuation.txt"
+start-exceptions = "../data/sentence-boundaries/sentence-start-exceptions.txt"
+end-exceptions = "../data/sentence-boundaries/sentence-end-exceptions.txt"
+
+dataset = "chemichals"
+corpus = "file.toml" # located inside dataset folder
+index = "chemichals-idx"
+indexer-ram-budget = 1024 # **estimated** RAM budget for indexing in MB
+                          # always set this lower than your physical RAM!
+# indexer-num-threads = 8 # default value is system thread concurrency
+
+[ranker]
+method = "bm25"
+k1 = 1.2
+b = 0.75
+k3 = 500
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+    [[analyzers.filter]]
+    type = "icu-tokenizer"
+
+    [[analyzers.filter]]
+    type = "lowercase"
+
+    [[analyzers.filter]]
+    type = "alpha"
+
+    [[analyzers.filter]]
+    type = "length"  
+    min = 2
+    max = 35
+
+    [[analyzers.filter]]
+    type = "list"
+    file = "../../data/lemur-stopwords.txt"
+
+
+    [[analyzers.filter]]
+    type = "empty-sentence"
