@@ -1,30 +1,14 @@
-## Initial Setup
+## Overview
 
-When setting up the project initially, run
+This is a demo of the Search functonality of this Project.
+The final interface will be designed for a Question/ Answering system
 
-```bash
-pip install --upgrade pip
-virtualenv meta-pyenv
-source meta-pyenv/bin/activate
-pip install -r requirements.txt
-```
-
-Make sure you run the `source` command before working with this project.
-Alternatively, you can add it to your `~/.bashrc`.
-
-To leave the virtual environment, simply close your terminal or type
-`deactivate`.
-
-## Running the servers
 
 To run the search engine server,
 
 ```bash
 python search_server.py config.toml
 ```
-
-To run the NLP demo server,
-
-```bash
-python nlp_server.py config.toml
-```
+Usage scenario:
+Enter a chemichal component, e.g 
+Engine returns list of matching documents
