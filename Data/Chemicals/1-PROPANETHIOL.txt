@@ -1,0 +1,650 @@
+Right to Know
+
+Hazardous Substance Fact Sheet
+Common Name:
+
+1-PROPANETHIOL
+
+Synonyms: n-Propyl Mercaptan; 1-Mercaptopropane
+
+CAS Number:
+
+107-03-9
+
+Chemical Name: 1-Propanethiol
+
+RTK Substance Number:
+
+1595
+
+Date: July 1999
+
+DOT Number:
+
+UN 2402
+
+Revision: March 2009
+
+Description and Use
+1-Propanethiol is a colorless liquid with a skunk or cabbagelike odor. It is used as a flavoring agent, chemical
+intermediate, herbicide, and fungicide, and as an odorant in
+odorless gases (such as Propane).
+f ODOR THRESHOLD = 0.00075 to 0.0016 ppm
+f Odor thresholds vary greatly. Do not rely on odor alone to
+
+determine potentially hazardous exposures.
+
+Reasons for Citation
+
+EMERGENCY RESPONDERS >>>> SEE LAST PAGE
+
+Hazard Summary
+Hazard Rating
+NJDOH
+HEALTH
+2
+FLAMMABILITY
+3
+REACTIVITY
+0
+FLAMMABLE
+POISONOUS GASES ARE PRODUCED IN FIRE
+CONTAINERS MAY EXPLODE IN FIRE
+
+NFPA
+-
+
+Hazard Rating Key: 0=minimal; 1=slight; 2=moderate; 3=serious;
+4=severe
+
+f 1-Propanethiol is on the Right to Know Hazardous
+
+Substance List because it is cited by DOT and NIOSH.
+f This chemical is on the Special Health Hazard Substance
+
+List.
+
+f 1-Propanethiol can affect you when inhaled.
+f Contact can irritate the skin and eyes.
+f Inhaling 1-Propanethiol can irritate the nose, throat and
+
+lungs causing coughing, wheezing and/or shortness of
+breath.
+f Exposure to 1-Propanethiol can cause headache,
+dizziness, nausea, muscle weakness, convulsions and
+unconsciousness.
+f 1-Propanethiol is a FLAMMABLE LIQUID and a
+DANGEROUS FIRE HAZARD.
+
+SEE GLOSSARY ON PAGE 5.
+
+FIRST AID
+Eye Contact
+f Immediately flush with large amounts of water for at least 15
+minutes, lifting upper and lower lids. Remove contact
+lenses, if worn, while rinsing.
+Skin Contact
+f Quickly remove contaminated clothing. Immediately wash
+contaminated skin with large amounts of soap and water.
+Inhalation
+f Remove the person from exposure.
+f Begin rescue breathing (using universal precautions) if
+breathing has stopped and CPR if heart action has stopped.
+f Transfer promptly to a medical facility.
+
+EMERGENCY NUMBERS
+Poison Control: 1-800-222-1222
+CHEMTREC: 1-800-424-9300
+NJDEP Hotline: 1-877-927-6337
+National Response Center: 1-800-424-8802
+
+Workplace Exposure Limits
+NIOSH: The recommended airborne exposure limit (REL) is
+0.5 ppm, which should not be exceeded during any
+15-minute work period.
+
+Page 2 of 6
+
+1-PROPANETHIOL
+Determining Your Exposure
+f Read the product manufacturer’s Material Safety Data
+
+Sheet (MSDS) and the label to determine product
+ingredients and important safety and health information
+about the product mixture.
+f For each individual hazardous ingredient, read the New
+
+Jersey Department of Health Hazardous Substance Fact
+Sheet, available on the RTK website
+(www.nj.gov/health/eoh/rtkweb) or in your facility’s RTK
+Central File or Hazard Communication Standard file.
+f You have a right to this information under the New Jersey
+
+Worker and Community Right to Know Act, the Public
+Employees Occupational Safety and Health (PEOSH) Act
+if you are a public worker in New Jersey, and under the
+federal Occupational Safety and Health Act (OSHA) if you
+are a private worker.
+f The New Jersey Right to Know Act requires most
+
+employers to label chemicals in the workplace and
+requires public employers to provide their employees with
+information concerning chemical hazards and controls.
+The federal OSHA Hazard Communication Standard (29
+CFR 1910.1200) and the PEOSH Hazard Communication
+Standard (N.J.A.C. 12:100-7) require employers to provide
+similar information and training to their employees.
+This Fact Sheet is a summary of available information
+regarding the health hazards that may result from exposure.
+Duration of exposure, concentration of the substance and other
+factors will affect your susceptibility to any of the potential
+effects described below.
+
+Health Hazard Information
+Acute Health Effects
+The following acute (short-term) health effects may occur
+immediately or shortly after exposure to 1-Propanethiol:
+f Contact can irritate the skin and eyes and may cause a skin
+
+rash.
+f Inhaling 1-Propanethiol can irritate the nose, throat and
+
+lungs causing coughing, wheezing and/or shortness of
+breath.
+f Exposure to 1-Propanethiol can cause headache,
+dizziness, nausea, muscle weakness, convulsions and
+unconsciousness.
+Chronic Health Effects
+The following chronic (long-term) health effects can occur at
+some time after exposure to 1-Propanethiol and can last for
+months or years:
+Cancer Hazard
+f According to the information presently available to the New
+Jersey Department of Health, 1-Propanethiol has not been
+tested for its ability to cause cancer in animals.
+
+Reproductive Hazard
+f According to the information presently available to the New
+
+Jersey Department of Health, 1-Propanethiol has not been
+tested for its ability to affect reproduction.
+Other Effects
+f 1-Propanethiol can irritate the lungs. Repeated exposure
+
+may cause bronchitis to develop with coughing, phlegm,
+and/or shortness of breath.
+
+Medical
+Medical Testing
+If symptoms develop or overexposure is suspected, the
+following are recommended:
+f Lung function tests
+
+Any evaluation should include a careful history of past and
+present symptoms with an exam. Medical tests that look for
+damage already done are not a substitute for controlling
+exposure.
+Request copies of your medical testing. You have a legal right
+to this information under the OSHA Access to Employee
+Exposure and Medical Records Standard (29 CFR 1910.1020).
+Mixed Exposures
+f Smoking can cause heart disease, lung cancer,
+emphysema, and other respiratory problems. It may worsen
+respiratory conditions caused by chemical exposure. Even if
+you have smoked for a long time, stopping now will reduce
+your risk of developing health problems.
+
+Page 3 of 6
+
+1-PROPANETHIOL
+Workplace Controls and Practices
+Very toxic chemicals, or those that are reproductive hazards or
+sensitizers, require expert advice on control measures if a less
+toxic chemical cannot be substituted. Control measures
+include: (1) enclosing chemical processes for severely
+irritating and corrosive chemicals, (2) using local exhaust
+ventilation for chemicals that may be harmful with a single
+exposure, and (3) using general ventilation to control
+exposures to skin and eye irritants. For further information on
+workplace controls, consult the NIOSH document on Control
+Banding at www.cdc.gov/niosh/topics/ctrlbanding/.
+The following work practices are also recommended:
+f Label process containers.
+f Provide employees with hazard information and training.
+f Monitor airborne chemical concentrations.
+f Use engineering controls if concentrations exceed
+
+f All protective clothing (suits, gloves, footwear, headgear)
+
+should be clean, available each day, and put on before work.
+Eye Protection
+f Wear indirect-vent, impact and splash resistant goggles
+when working with liquids.
+f If additional protection is needed for the entire face, use in
+combination with a face shield. A face shield should not be
+used without another type of eye protection.
+Respiratory Protection
+Improper use of respirators is dangerous. Respirators
+should only be used if the employer has implemented a written
+program that takes into account workplace conditions,
+requirements for worker training, respirator fit testing, and
+medical exams, as described in the OSHA Respiratory
+Protection Standard (29 CFR 1910.134).
+
+recommended exposure levels.
+f Provide eye wash fountains and emergency showers.
+f Wash or shower if skin comes in contact with a hazardous
+
+material.
+f Always wash at the end of the workshift.
+f Change into clean clothing if clothing becomes
+contaminated.
+f Do not take contaminated clothing home.
+f Get special training to wash contaminated clothing.
+f Do not eat, smoke, or drink in areas where chemicals are
+being handled, processed or stored.
+f Wash hands carefully before eating, smoking, drinking,
+applying cosmetics or using the toilet.
+In addition, the following may be useful or required:
+f Before entering a confined space where 1-Propanethiol
+
+may be present, check to make sure that an explosive
+concentration does not exist.
+f Where possible, transfer 1-Propanethiol from drums or
+other containers to process containers in an enclosed
+system.
+
+Personal Protective Equipment
+The OSHA Personal Protective Equipment Standard (29 CFR
+1910.132) requires employers to determine the appropriate
+personal protective equipment for each hazard and to train
+employees on how and when to use protective equipment.
+The following recommendations are only guidelines and may
+not apply to every situation.
+Gloves and Clothing
+f Avoid skin contact with 1-Propanethiol. Wear personal
+protective equipment made from material which can not be
+permeated or degraded by this substance. Safety
+equipment suppliers and manufacturers can provide
+recommendations on the most protective glove and clothing
+material for your operation.
+f Safety equipment manufacturers recommend Butyl, Viton
+and Barrier® as glove materials for Sulfur compounds, and
+Tychem® BR, LV, Responder®, and TK, or the equivalent,
+as protective clothing materials for Sulfur compounds.
+
+f Where the potential exists for exposure over 0.5 ppm, use a
+
+NIOSH approved full facepiece respirator with an organic
+vapor cartridge. Increased protection is obtained from full
+facepiece powered-air purifying respirators.
+f Leave the area immediately if (1) while wearing a filter or
+cartridge respirator you can smell, taste, or otherwise detect
+1-Propanethiol, (2) while wearing particulate filters
+abnormal resistance to breathing is experienced, or (3) eye
+irritation occurs while wearing a full facepiece respirator.
+Check to make sure the respirator-to-face seal is still good.
+If it is, replace the filter or cartridge. If the seal is no longer
+good, you may need a new respirator.
+f Consider all potential sources of exposure in your workplace.
+You may need a combination of filters, prefilters or cartridges
+to protect against different forms of a chemical (such as
+vapor and mist) or against a mixture of chemicals.
+f Where the potential exists for exposure over 5 ppm, use a
+NIOSH approved supplied-air respirator with a full facepiece
+operated in a pressure-demand or other positive-pressure
+mode. For increased protection use in combination with an
+auxiliary self-contained breathing apparatus operated in a
+pressure-demand or other positive-pressure mode.
+
+Fire Hazards
+If employees are expected to fight fires, they must be trained
+and equipped as stated in the OSHA Fire Brigades Standard
+(29 CFR 1910.156).
+f 1-Propanethiol is a FLAMMABLE LIQUID.
+f Use dry chemical, CO2, water spray, alcohol-resistant foam
+
+or other foam as extinguishing agents.
+f Water may not be effective in fighting fires.
+f POISONOUS GASES ARE PRODUCED IN FIRE, including
+
+Hydrogen Sulfide and Sulfur Oxides.
+f CONTAINERS MAY EXPLODE IN FIRE.
+f Use water spray to keep fire-exposed containers cool.
+f Vapors may travel to a source of ignition and flash back.
+f Vapor is heavier than air and may travel a distance to cause
+
+a fire or explosion far from the source.
+f Flow or agitation may generate electrostatic discharges.
+
+Page 4 of 6
+
+1-PROPANETHIOL
+Spills and Emergencies
+If employees are required to clean-up spills, they must be
+properly trained and equipped. The OSHA Hazardous Waste
+Operations and Emergency Response Standard (29 CFR
+1910.120) may apply.
+If 1-Propanethiol is spilled or leaked, take the following steps:
+
+Occupational Health Information
+Resources
+The New Jersey Department of Health offers multiple services
+in occupational health. These services include providing
+informational resources, educational materials, public
+presentations, and industrial hygiene and medical
+investigations and evaluations.
+
+f Evacuate personnel and secure and control entrance to the
+
+area.
+f Eliminate all ignition sources.
+f Absorb liquids in vermiculite, dry sand, earth, or a similar
+
+material and place into sealed containers for disposal.
+f Ventilate and wash area after clean-up is complete.
+f Keep 1-Propanethiol out of confined spaces, such as
+
+sewers, because of the possibility of an explosion.
+f DO NOT wash into sewer.
+f It may be necessary to contain and dispose of
+
+1-Propanethiol as a HAZARDOUS WASTE. Contact your
+state Department of Environmental Protection (DEP) or your
+regional office of the federal Environmental Protection
+Agency (EPA) for specific recommendations.
+
+Handling and Storage
+Prior to working with 1-Propanethiol you should be trained on
+its proper handling and storage.
+f 1-Propanethiol may react violently or explosively with
+
+OXIDIZING AGENTS (such as PERCHLORATES,
+PEROXIDES, PERMANGANATES, CHLORATES,
+NITRATES, CHLORINE, BROMINE and FLUORINE);
+STRONG ACIDS (such as HYDROCHLORIC, SULFURIC
+and NITRIC); STRONG BASES (such as SODIUM
+HYDROXIDE and POTASSIUM HYDROXIDE); ALKALI
+METALS (such as LITHIUM, SODIUM and POTASSIUM);
+and CALCIUM HYPOCHLORITE.
+f 1-Propanethiol is not compatible with AMINES; ETHYLENE
+OXIDE; and ISOCYANATES.
+f Store in tightly closed containers in a cool, well-ventilated
+area.
+f Sources of ignition, such as smoking and open flames, are
+prohibited where 1-Propanethiol is used, handled, or
+stored.
+f Metal containers involving the transfer of 1-Propanethiol
+should be grounded and bonded.
+f Use explosion-proof electrical equipment and fittings
+wherever 1-Propanethiol is used, handled, manufactured,
+or stored.
+f Use only non-sparking tools and equipment, especially when
+opening and closing containers of 1-Propanethiol.
+f 1-Propanethiol attacks some forms of PLASTICS,
+COATINGS and RUBBER.
+
+For more information, please contact:
+New Jersey Department of Health
+Right to Know
+PO Box 368
+Trenton, NJ 08625-0368
+Phone: 609-984-2202
+Fax: 609-984-7407
+E-mail: rtk@doh.state.nj.us
+Web address: http://www.nj.gov/health/eoh/rtkweb
+The Right to Know Hazardous Substance Fact Sheets
+are not intended to be copied and sold
+for commercial purposes.
+
+1-PROPANETHIOL
+
+Page 5 of 6
+
+GLOSSARY
+ACGIH is the American Conference of Governmental Industrial
+Hygienists. They publish guidelines called Threshold Limit
+Values (TLVs) for exposure to workplace chemicals.
+Acute Exposure Guideline Levels (AEGLs) are established
+by the EPA. They describe the risk to humans resulting from
+once-in-a lifetime, or rare, exposure to airborne chemicals.
+Boiling point is the temperature at which a substance can
+change its physical state from a liquid to a gas.
+A carcinogen is a substance that causes cancer.
+The CAS number is unique, identifying number, assigned by
+the Chemical Abstracts Service, to a specific chemical.
+CFR is the Code of Federal Regulations, which are the
+regulations of the United States government.
+A combustible substance is a solid, liquid or gas that will burn.
+A corrosive substance is a gas, liquid or solid that causes
+destruction of human skin or severe corrosion of containers.
+DEP is the New Jersey Department of Environmental
+Protection.
+DOT is the Department of Transportation, the federal agency
+that regulates the transportation of chemicals.
+EPA is the Environmental Protection Agency, the federal
+agency responsible for regulating environmental hazards.
+ERG is the Emergency Response Guidebook. It is a guide for
+emergency responders for transportation emergencies
+involving hazardous substances.
+Emergency Response Planning Guideline (ERPG) values
+provide estimates of concentration ranges where one
+reasonably might anticipate observing adverse effects.
+A fetus is an unborn human or animal.
+A flammable substance is a solid, liquid, vapor or gas that will
+ignite easily and burn rapidly.
+The flash point is the temperature at which a liquid or solid
+gives off vapor that can form a flammable mixture with air.
+IARC is the International Agency for Research on Cancer, a
+scientific group.
+Ionization Potential is the amount of energy needed to
+remove an electron from an atom or molecule. It is measured
+in electron volts.
+IRIS is the Integrated Risk Information System database on
+human health effects that may result from exposure to various
+chemicals, maintained by federal EPA.
+LEL or Lower Explosive Limit, is the lowest concentration of
+a combustible substance (gas or vapor) in the air capable of
+continuing an explosion.
+
+mg/m3 means milligrams of a chemical in a cubic meter of air.
+It is a measure of concentration (weight/volume).
+A mutagen is a substance that causes mutations. A mutation
+is a change in the genetic material in a body cell. Mutations
+can lead to birth defects, miscarriages, or cancer.
+NFPA is the National Fire Protection Association. It classifies
+substances according to their fire and explosion hazard.
+NIOSH is the National Institute for Occupational Safety and
+Health. It tests equipment, evaluates and approves
+respirators, conducts studies of workplace hazards, and
+proposes standards to OSHA.
+NTP is the National Toxicology Program which tests chemicals
+and reviews evidence for cancer.
+OSHA is the federal Occupational Safety and Health
+Administration, which adopts and enforces health and safety
+standards.
+PEOSHA is the New Jersey Public Employees Occupational
+Safety and Health Act, which adopts and enforces health and
+safety standards in public workplaces.
+Permeated is the movement of chemicals through protective
+materials.
+ppm means parts of a substance per million parts of air. It is a
+measure of concentration by volume in air.
+Protective Action Criteria (PAC) are values established by
+the Department of Energy and are based on AEGLs and
+ERPGs. They are used for emergency planning of chemical
+release events.
+A reactive substance is a solid, liquid or gas that releases
+energy under certain conditions.
+STEL is a Short Term Exposure Limit which is usually a 15minute exposure that should not be exceeded at any time
+during a work day.
+A teratogen is a substance that causes birth defects by
+damaging the fetus.
+UEL or Upper Explosive Limit is the highest concentration in
+air above which there is too much fuel (gas or vapor) to begin a
+reaction or explosion.
+Vapor Density is the ratio of the weight of a given volume of
+one gas to the weight of another (usually Hydrogen), at the
+same temperature and pressure.
+The vapor pressure is a force exerted by the vapor in
+equilibrium with the solid or liquid phase of the same
+substance. The higher the vapor pressure the higher
+concentration of the substance in air.
+
+Right to Know Hazardous Substance Fact Sheet
+Common Name: 1-PROPANETHIOL
+Synonyms: n-Propyl Mercaptan; 1-Mercaptopropane
+CAS No: 107-03-9
+Molecular Formula: C3H8S
+RTK Substance No: 1595
+Description: Colorless liquid with a skunk or cabbage-like odor
+
+HAZARD DATA
+Hazard Rating
+2 - Health
+3 - Fire
+0 - Reactivity
+DOT#: UN 2402
+ERG Guide #: 130
+Hazard Class: 3
+(Flammable)
+
+Firefighting
+
+Reactivity
+
+FLAMMABLE LIQUID
+Use dry chemical, CO2, water spray, alcohol-resistant
+foam or other foam as extinguishing agents.
+Water may not be effective in fighting fires.
+POISONOUS GASES ARE PRODUCED IN FIRE,
+including Hydrogen Sulfide and Sulfur Oxides.
+CONTAINERS MAY EXPLODE IN FIRE.
+Use water spray to keep fire-exposed containers cool.
+Vapors may travel to a source of ignition and flash back.
+Vapor is heavier than air and may travel a distance to
+cause a fire or explosion far from the source.
+Flow or agitation may generate electrostatic discharges.
+
+1-Propanethiol may react violently or explosively
+with OXIDIZING AGENTS (such as PERCHLORATES,
+PEROXIDES, PERMANGANATES, CHLORATES,
+NITRATES, CHLORINE, BROMINE and FLUORINE);
+STRONG ACIDS (such as HYDROCHLORIC,
+SULFURIC and NITRIC); STRONG BASES (such
+as SODIUM HYDROXIDE and POTASSIUM
+HYDROXIDE); ALKALI METALS (such as
+LITHIUM, SODIUM and POTASSIUM); and
+CALCIUM HYPOCHLORITE.
+1-Propanethiol is not compatible with AMINES; ETHYLENE
+OXIDE; and ISOCYANATES.
+
+SPILL/LEAKS
+
+PHYSICAL PROPERTIES
+
+Isolation Distance:
+Spill: 50 meters (150 feet)
+Fire: 800 meters (1/2 mile)
+
+Odor Threshold:
+
+0.00075 to 0.0016 ppm
+
+Flash Point:
+
+-6oF (-21oC)
+
+Vapor Density:
+
+2.6 (air = 1)
+
+Absorb liquids in vermiculite, dry sand, earth, or a
+similar material and place into sealed containers for
+disposal.
+Use only non-sparking tools and equipment,
+especially when opening and closing containers of
+1-Propanethiol.
+Keep 1-Propanethiol out of confined spaces, such as
+sewers, because of the possibility of an explosion.
+
+Vapor Pressure:
+
+155 mm Hg at 77oF (25oC)
+
+Specific Gravity:
+
+0.84 (water = 1)
+
+Water Solubility:
+
+Slightly soluble
+
+Boiling Point:
+
+154oF (68oC)
+
+Freezing Point:
+
+-172oF (-113.3oC)
+
+Ionization Potential:
+
+9.2 eV
+
+Molecular Weight:
+
+76.2
+
+DO NOT wash into sewer.
+
+EXPOSURE LIMITS
+
+PROTECTIVE EQUIPMENT
+
+NIOSH: 0.5 ppm, 15-min Ceiling
+
+Gloves:
+
+The Protective Action Criteria values are:
+PAC-1 = 0.075 ppm
+PAC-2 = 0.5 ppm
+
+Coveralls:
+
+PAC-3 = 750 ppm
+
+HEALTH EFFECTS
+Eyes:
+Skin:
+Inhalation:
+
+Irritation
+Irritation and rash
+Nose, throat and lung irritation with
+coughing, wheezing and/or shortness of
+breath
+Headache, dizziness, convulsions and
+unconsciousness
+
+Respirator:
+
+Butyl, Viton and Barrier® (>8-hr breakthrough for Sulfur
+compounds)
+Tychem® BR, LV, Responder®, and TK (>8-hr
+breakthrough for Sulfur compounds)
+<5 ppm - Full facepiece APR with Organic vapor
+cartridges
+>5 ppm - SCBA
+
+FIRST AID AND DECONTAMINATION
+Remove the person from exposure.
+Flush eyes with large amounts of water for at least 15 minutes. Remove
+contact lenses if worn.
+Quickly remove contaminated clothing and wash contaminated skin with
+large amounts of soap and water.
+Begin artificial respiration if breathing has stopped and CPR if necessary.
+Transfer promptly to a medical facility.
+March 2009
+
+
